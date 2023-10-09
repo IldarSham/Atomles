@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "name": "Йод",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/yod/1.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Цезий",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/ceziy/1.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Стронций",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/stronciy/1.png"
+    },
+    
+    {
+        "id": 4,
+        "name": "Бром",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/brom/1.png"
+    },
+
+    {
+        "id": 5,
+        "name": "Сера",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/sera/1.png"
+    },
+    
+    {
+        "id": 6,
+        "name": "Хлора",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/hlora/1.png"
+    },
+
+    {
+        "id": 7,
+        "name": "Заяц-гигант",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/giant-hare/1.png"
+    },
+    
+    {
+        "id": 8,
+        "name": "Титан",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/titan/1.png"
+    },
+    
+    {
+        "id": 9,
+        "name": "Шаман",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/shaman/1.png"
+    },
+
+    {
+        "id": 10,
+        "name": "Робот",
+        "thumbnail_image_url": "http://localhost:3000/images/characters/robot/1.png"
+    }
+ ]
